@@ -31,4 +31,4 @@ const numberOfWaysWithBlocked = (squares, blocked) => {
     return numberOfWaysWithBlocked1(squares, blocked, memo={})
 }
 
-console.log(numberOfWaysWithBlocked([], [[]]));
+console.log(numberOfWaysWithBlocked([182], [[]]));
